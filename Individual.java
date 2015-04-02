@@ -4,7 +4,7 @@
 
 
 
-//This class represents a code in the population
+//This class represents a single code in the population
 public class Individual{
 
 	String [] geussArray;
